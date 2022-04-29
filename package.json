@@ -1,0 +1,31 @@
+{
+  "name": "proton-boilerplate-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@bloks/utils": "^26.0.3",
+    "@proton/js": "22.0.64",
+    "@proton/link": "3.2.3-27",
+    "@proton/web-sdk": "4.1.10",
+    "dayjs": "^1.11.1",
+    "next": "^11.1.2",
+    "next-transpile-modules": "^9.0.0",
+    "prettier": "^2.3.1",
+    "react": "^18.0.0",
+    "react-dom": "17.0.1",
+    "styled-components": "^5.3.0",
+    "typescript": "^4.6.4",
+    "url-loader": "^4.1.1",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "^18.0.3",
+    "@types/styled-components": "^5.1.25"
+  }
+}
